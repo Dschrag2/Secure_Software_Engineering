@@ -1,0 +1,24 @@
+Known security vulnerabilities detected:
+
+Dependency: seo_panel
+Version(s): 4.8.0
+Vulnerabilities:
+- CVE-2021-3002 (Severity: MEDIUM)
+- CVE-2021-28417 (Severity: MEDIUM)
+- CVE-2021-28418 (Severity: MEDIUM)
+- CVE-2021-28419 (Severity: HIGH)
+- CVE-2021-28420 (Severity: MEDIUM)
+- CVE-2021-29008 (Severity: MEDIUM)
+- CVE-2021-29009 (Severity: MEDIUM)
+- CVE-2021-29010 (Severity: MEDIUM)
+- CVE-2021-39413 (Severity: MEDIUM)
+
+Dependency: gpu_driver
+Version(s): *
+Vulnerabilities:
+- CVE-2021-1051 (Severity: HIGH)
+- CVE-2021-1052 (Severity: HIGH)
+- CVE-2021-1053 (Severity: MEDIUM)
+- CVE-2021-1054 (Severity: MEDIUM)
+- CVE-2021-1055 (Severity: MEDIUM)
+- CVE-2021-1056 (Severity: HIGH)
