@@ -1,4 +1,5 @@
 import itertools
+import string
 
 def generate_combinations(length):
     characters = string.ascii_letters + string.digits + '&@#'
