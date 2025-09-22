@@ -9,6 +9,7 @@ Vulnerable Dependency Finder
 - Match dependencies from pom.xml and knowledge base to output a vulnerable dependencies report
 
 ## Homework 2
+Software Weaknesses and Vulnerabilities
 - Understanding Django's {% csrf_token %}
 - Acting as a software consultant to identify security vulnerabilities in a web application
 - Cracking passwords using brute-force and rainbow tables
