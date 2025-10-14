@@ -13,3 +13,9 @@ Software Weaknesses and Vulnerabilities
 - Understanding Django's {% csrf_token %}
 - Acting as a software consultant to identify security vulnerabilities in a web application
 - Cracking passwords using brute-force and rainbow tables
+
+## Homework 3
+Threat Modeling and Django Security
+- Patching identified security vulnerabilities
+- Threat modeling
+- Data flow graphs (DFGs)
