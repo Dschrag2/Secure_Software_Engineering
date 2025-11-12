@@ -18,4 +18,4 @@ Software Weaknesses and Vulnerabilities
 Threat Modeling and Django Security
 - Patching identified security vulnerabilities
 - Threat modeling
-- Data flow graphs (DFGs)
+- Data flow diagrams
